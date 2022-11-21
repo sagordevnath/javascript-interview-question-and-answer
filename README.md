@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
     <p>
         <a href="https://www.youtube.com/watch?v=Zb4dPi7CANU">
             JavaScript Interview Questions | Top JavaScript Interview Questions and Answers.
@@ -19,7 +19,7 @@
             </div>
         </a>
     </p>
-</div>
+</div> -->
 
 ---
 
